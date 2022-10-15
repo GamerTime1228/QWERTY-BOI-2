@@ -1,2 +1,2 @@
 # QWERTY-BOI-2
-Can you use your colorful orb-manipulation powers to beat the 4 levels?
+Can you use your colorful orb-manipulation powers to beat the 4 levels? This game stars a stick figure protagonist using his power to summon and fire orbs of varying colors to make it past obstacles. He can break down walls by firing a colored orbs of its complementary color, like taking down a green wall with a red orb. Using this relatively basic premise, he can use these orbs in unique ways, and even to take down a final boss. Only through proper strategy and precise platforming can QWERTY BOI complete the 4 levels. (Sorry for any bugs or glitches in either the animations or platforms, you are just gonna have to deal with it)
